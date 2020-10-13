@@ -1,2 +1,2 @@
-# animate-css
+# Animate CSS on Scroll
 GitHub Pages
